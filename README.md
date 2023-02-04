@@ -1,8 +1,8 @@
 # Data Science-Nanodegree Udacity-Projects
 
 ## Project Lists:
-> - Project1 : Predicting Bike-Sharing Patterns.
-> - Project2 : Landmark Classification & Tagging for Social Media.
-> - Project3 : Generate TV Scripts.
-- Project4 : Generate Faces.
-- Project5 : Deploying a Sentiment Analysis Model.
+> - Project1 : Create a Data Model for Seven Sages Brewing Company.
+> - Project2 : Building a PowerBI Report for Waggle.
+> - Project3 : Investigate a Dataset.
+> - Project4 : Securing a Business Network.
+> - Project5 : Project-5-Deploy Static Website on AWS.
